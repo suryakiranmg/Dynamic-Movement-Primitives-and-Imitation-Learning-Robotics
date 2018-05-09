@@ -1,3 +1,4 @@
+%Imitation Learning from given data%
 clear all; clc; close all;
 x(1)=1; alpha_x = 8; beta_z = 6; alpha_z = 25;
 c = [ 1 0.6294 0.3962 0.2494 0.1569 0.0988 0.0622 0.0391 0.0246 0.0155];
@@ -33,6 +34,7 @@ subplot(3,1,1); plot(t, yn,t,y); title('Position plot')
 subplot(3,1,2); plot(t, y_dn,t,ydot); title('Velocity plot')
 subplot(3,1,3);plot(t, y_ddn,t,zdot); title('Acceleration plot')
 
+% DMV %
 
 function [y,ydot,zdot]= Movt_Planning_Fn(Computed_weight)
 %Time Constants & Initial Conditions
