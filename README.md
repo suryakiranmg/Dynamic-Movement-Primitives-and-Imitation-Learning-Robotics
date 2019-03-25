@@ -16,4 +16,6 @@ http://www-clmc.usc.edu/Research/MotorPrimitives
 
 http://www-clmc.usc.edu/Research/ImitationLearning
 
+https://studywolf.wordpress.com/2013/11/16/dynamic-movement-primitives-part-1-the-basics/
+
 
