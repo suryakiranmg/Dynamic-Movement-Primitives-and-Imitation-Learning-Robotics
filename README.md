@@ -10,7 +10,7 @@ Imitation learning using linear regression is performed to compute the weight fa
 
 :+1: For more: smenache@usc.edu
 
-**References:
+**References:**
 
 http://www-clmc.usc.edu/Research/MotorPrimitives 
 
