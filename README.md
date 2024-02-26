@@ -10,6 +10,9 @@ Imitation learning using linear regression is performed to compute the weight fa
 
 
 
+![Test Image 4](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics/blob/master/imitation_learn.png)
+
+
 **References:**
 
 http://www-clmc.usc.edu/Research/MotorPrimitives 
